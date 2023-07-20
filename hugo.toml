@@ -3,3 +3,14 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 theme = "learn"
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/hoangphan/hoangphan.github.io"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-download'></i> Releases"
+url = "/Releases"
+weight = 11
