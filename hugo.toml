@@ -164,10 +164,10 @@ disqusShortname = ""
 [Languages]
   [Languages.en]
     weight = 1
-  [Languages.de]
+  [Languages.vn]
     weight = 2
-    title = "Mein cooler neuer Blog"
-    subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+    title = "Chào mừng đến với HP blog"
+    subtitle = "Nơi đây viết về cuộc đời"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'

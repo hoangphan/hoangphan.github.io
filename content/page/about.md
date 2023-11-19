@@ -16,4 +16,6 @@ link: ""
 target: "_blank"
 ---
 
-This is to journal my life
+This is to journal my life.
+
+Cover life advices that I gave and took. If you are interested in a discussion please reach me out on LinkedIn. 
