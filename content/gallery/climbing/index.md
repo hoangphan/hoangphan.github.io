@@ -8,7 +8,7 @@ imageSlider: true   #set to false if you don't want to use the imageSlider but a
 categories: [Peace]
 tags: [trekking, careering]
 author: "HP"
-summary: "Why make fulfillment from climbing a mountain different from solving a difficult problem in the company you work for?"
+summary: "What make fulfillment from climbing a mountain different from solving a difficult problem in the company you work for?"
 ---
 
 Last month, I and my fellows colleagues were in a trekking tour 2 days 1 night to the top of [Tanang Phan Dung](https://vietnamtourism.gov.vn/post/32062). Enjoying the rare time with no internet and emails. We went through a journey of 35km under rain forest, through multiples hills, mountains and streams. It was a difficult but fun and memorable trip for all of us. 
