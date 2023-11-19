@@ -2,6 +2,8 @@
 title: "How to do great work?"
 date: 2023-11-19T06:29:21+07:00
 draft: false
+categories: [Insights]
+tags: [greatwork, ambition]
 author: Paul Graham
 ---
 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it.
