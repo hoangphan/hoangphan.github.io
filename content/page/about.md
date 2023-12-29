@@ -16,6 +16,8 @@ link: ""
 target: "_blank"
 ---
 
-This is to journal my life.
+This is to journal my life. As an effort to document my answers to the questions received from someone, or from my own curiosity. 
 
-Cover life advices that I gave and took. If you are interested in a discussion please reach me out on LinkedIn. 
+It ranges from some daily concern like career development, what to do to be happy. To some ultimate concerns like to be free, to achieve breakthrough of enlightenment. 
+
+If you are interested in a discussion please reach me out on LinkedIn. 
