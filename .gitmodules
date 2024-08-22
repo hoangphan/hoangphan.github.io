@@ -1,6 +1,3 @@
-[submodule "test/themes/learn"]
-	path = test/themes/learn
-	url = https://github.com/matcornic/hugo-theme-learn.git
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/Lednerb/bilberry-hugo-theme.git
