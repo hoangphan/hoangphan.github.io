@@ -97,7 +97,7 @@ disqusShortname = ""
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = true
+    showHeaderLanguageChooser = false
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
@@ -164,10 +164,6 @@ disqusShortname = ""
 [Languages]
   [Languages.en]
     weight = 1
-  [Languages.vn]
-    weight = 2
-    title = "Chào mừng đến với HP blog"
-    subtitle = "Nơi đây viết về cuộc đời"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
