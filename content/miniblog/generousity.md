@@ -2,6 +2,10 @@
 title: "Generousity"
 date: 2025-02-03T14:41:37+07:00
 draft: false
+
+tags: [fulfilment, empathy, happiness]
+author: "HP"
+summary: "Generousity, and the hypothesis of the generator"
 ---
 
 Generousity is not limited to praising, or giving away more than one's deserved. 
