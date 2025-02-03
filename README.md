@@ -1,6 +1,6 @@
 # hoangphan.github.io
 ### Hi there 
-This is a space to write mini blogs, using hugo & Bilberry Hugo Theme. Hosted in github pages. 
+This is a space to write mini blogs, using hugo & Bilberry Hugo Theme. Hosted on Github pages. 
 
 The current generated site is hosted here: https://hoangphan.github.io/
 
